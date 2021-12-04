@@ -16,11 +16,8 @@ class App extends Component {
             href="https://reactjs.org"
             target="_blank"
             rel="noopener noreferrer"
-          >
-          </a>
-          <h3>
-            CloudAcademy ❤ DevOps 2019 - version 2.0
-          </h3>
+          ></a>
+          <h3>CloudAcademy ❤ DevOps 2019 - version 2.1</h3>
         </header>
       </div>
     );
